@@ -1,8 +1,9 @@
 {
   "name": "axios-zcy",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "a package that repackages axios",
   "main": "index.ts",
+  "keywords": ["axios", "zcy"],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
